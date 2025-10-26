@@ -44,6 +44,8 @@
 
 ## Data Structures
   * [Binary Search Tree](https://github.com/TheAlgorithms/R/blob/HEAD/data_structures/binary_search_tree.r)
+  * Stack
+    * [Stack Operations](https://github.com/TheAlgorithms/R/blob/HEAD/data_structures/Stack/stack_operations.r)
   * Queue
     * [Queue Operations](https://github.com/TheAlgorithms/R/blob/HEAD/data_structures/Queue/queue_operations.r)
 
