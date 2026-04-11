@@ -80,6 +80,7 @@
 
 ## Machine Learning
   * [Gradient Boosting](https://github.com/TheAlgorithms/R/blob/HEAD/machine_learning/gradient_boosting.r)
+  * [Perceptron](https://github.com/TheAlgorithms/R/blob/HEAD/machine_learning/perceptron.r)
 
 
 ## Mathematics
